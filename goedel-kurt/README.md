@@ -10,4 +10,6 @@ has obtained permission from the Institute’s Archives Center to use this
 image for inclusion in non-commercial OLP-derived materials. Permission
 from the Archives Center is required for any other use.
 
+Please see the [repository README file](https://github.com/OpenLogicProject/photos/blob/master/README.md) for general information on licensing and requirements for use.
+
 > ![goedel-kurt](https://github.com/OpenLogicProject/photos/blob/master/goedel-kurt/goedel-kurt-small.png)
