@@ -1,0 +1,11 @@
+#!/bin/bash
+
+GITURL="https://github.com/OpenLogicProject/photos/blob/master"
+
+printf "# $1\n\n" > $1/README.md
+
+pandoc -t markdown $1/$1-credit.tex >> $1/README.md
+
+printf "\nPlease see the [repository README file]($GITURL/README.md) for general information on licensing and requirements for use.\n" >> $1/README.md
+
+printf "\n> ![$1]($GITURL/$1/$1-small.png)" >> $1/README.md 
