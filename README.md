@@ -17,3 +17,12 @@ in the work, either near the images themselves or in a separate *Photo
 Credits* section. Permission from the sources and/or copyright holders
 are required for any other use, including commercial use of works
 derived from the Open Logic Project.
+
+To include these photos, clone this repository into `assests/photos`,
+i.e., navigate to the `assets` subdirectory and clone this repository
+(or your fork of it) there.
+
+    $ cd OpenLogic/assets
+    $ git clone https://github.com/OpenLogicProject/photos.git
+
+(or `git@github.com:OpenLogicProject/photos.git` if you use SSH of course).
