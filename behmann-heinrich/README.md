@@ -1,0 +1,12 @@
+# behmann-heinrich
+
+Portrait of Heinrich Behmann, ca. 1922, courtesy of the [Abteilung für
+Handschriften und Seltene Drucke, Niedersächsische Staats- und
+Universitätsbibliothek
+Göttingen](http://www.sub.uni-goettingen.de/en/contact/departments-a-z/departmental-and-unit-details/abteilunggruppe/handschriften-und-seltene-drucke/),
+Cod. Ms. Hilbert 754 Bl. 22 Nr. 115. Restored from an original scan by
+Joel Fuller.
+
+Please see the [repository README file](https://github.com/OpenLogicProject/photos/blob/master/README.md) for general information on licensing and requirements for use.
+
+> ![behmann-heinrich](https://github.com/OpenLogicProject/photos/blob/master/behmann-heinrich/behmann-heinrich-small.png)
